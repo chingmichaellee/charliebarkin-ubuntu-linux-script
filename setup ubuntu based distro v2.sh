@@ -79,8 +79,6 @@ sudo apt install -y libreoffice-writer libreoffice-impress libreoffice-calc libr
 sudo apt install -y onlyoffice-desktopeditors spotify-client 
 sudo apt install -y unetbootin go-mtpfs exfat-fuse exfat-utils testdisk speedtest-cli transcode breeze fonts-powerline stacer
 sudo apt install -y avidemux2.7-qt5 avidemux2.7-qt5-data avidemux2.7-plugins-qt5 avidemux2.7-jobs-qt5 chrome-gnome-shell
- 
-wget http://packages.linuxmint.com/pool/main/m/mintstick/ mintstick_1.4.1_all.deb; sudo dpkg -i mintstick_1.4.1_all.deb; rm mintstick_1.4.1_all.deb
 
 # Install Ocenaudio:
 
